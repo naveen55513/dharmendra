@@ -1,4 +1,4 @@
-import React from 'react';
+// ...existing code...
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ThemeProvider } from './contexts/ThemeContext';
 import Navbar from './components/Navbar';
